@@ -8,10 +8,10 @@ export default function Footer() {
 
   const quickLinks = ["Home", "About", "Skills", "Projects"];
   const socials = [
-    { icon: "bx bxl-github", href: "https://github.com/ShivamSingh20-rg", label: "GitHub" },
-    { icon: "bx bxl-linkedin-square", href: "https://www.linkedin.com/in/shivam-singh-gaharwar-ab2488390/", label: "LinkedIn" },
+    { icon: "bx bxl-github", href: " ", label: "GitHub" },
+    { icon: "bx bxl-linkedin-square", href: " ", label: "LinkedIn" },
     { icon: "bx bxl-twitter", href: "#", label: "Twitter" },
-    { icon: "bx bxl-instagram", href: "https://www.instagram.com/sh1vam__20/", label: "Instagram" },
+    { icon: "bx bxl-instagram", href: " /", label: "Instagram" },
   ];
 
   const handleInputChange = (e) => {
