@@ -65,15 +65,15 @@ useEffect(() => {
                        {[
               {
                 icon: "bxl-instagram",
-                url: "https://www.instagram.com/sh1vam__20/",
+                url: " ",
               },
               {
                 icon: "bxl-github",
-                url: "https://github.com/ShivamSingh20-rg",
+                url: " ",
               },
               {
                 icon: "bxl-linkedin",
-                url: "https://www.linkedin.com/in/shivam-singh-gaharwar-ab2488390/",
+                url: " ",
               },
               { icon: "bxl-discord", url: "#" },
               { icon: "bxl-twitter", url: "#" },
