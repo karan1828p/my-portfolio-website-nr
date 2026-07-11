@@ -1,0 +1,53 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kpGradBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M 30 100 A 70 70 0 0 1 78 40" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <path d="M 122 40 A 70 70 0 0 1 170 100" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <path d="M 170 100 A 70 70 0 0 1 122 160" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <path d="M 78 160 A 70 70 0 0 1 30 100" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+
+  <g stroke="#94a3b8" stroke-width="1.3" fill="none" stroke-linecap="round">
+    <path d="M 30 100 Q 20 88 12 90"/>
+    <path d="M 25 90 Q 14 80 16 68"/>
+    <path d="M 32 82 Q 26 68 34 58"/>
+    <circle cx="12" cy="90" r="3.5" fill="#2dd4bf" stroke="none"/>
+    <circle cx="16" cy="68" r="3" fill="#0ea5e9" stroke="none"/>
+    <circle cx="34" cy="58" r="4" fill="none"/>
+    <path d="M 34 58 l -4 -3 M 34 58 l 4 -3 M 34 58 l -1 -5 M 34 58 l 2 -5"/>
+  </g>
+
+  <g stroke="#94a3b8" stroke-width="1.3" fill="none" stroke-linecap="round">
+    <path d="M 170 100 Q 180 88 188 90"/>
+    <path d="M 175 90 Q 186 80 184 68"/>
+    <path d="M 168 82 Q 174 68 166 58"/>
+    <circle cx="188" cy="90" r="3.5" fill="#2dd4bf" stroke="none"/>
+    <circle cx="184" cy="68" r="3" fill="#0ea5e9" stroke="none"/>
+    <circle cx="166" cy="58" r="4" fill="none"/>
+    <path d="M 166 58 l -4 -3 M 166 58 l 4 -3 M 166 58 l -1 -5 M 166 58 l 2 -5"/>
+  </g>
+
+  <g stroke="#94a3b8" stroke-width="1.3" fill="none" stroke-linecap="round">
+    <path d="M 30 100 Q 20 112 12 110"/>
+    <path d="M 25 110 Q 14 120 16 132"/>
+    <path d="M 32 118 Q 26 132 34 142"/>
+    <circle cx="12" cy="110" r="3.5" fill="#2dd4bf" stroke="none"/>
+    <circle cx="16" cy="132" r="3" fill="#0ea5e9" stroke="none"/>
+    <path d="M 34 142 l -4 3 M 34 142 l 4 3 M 34 142 l -1 5 M 34 142 l 2 5"/>
+  </g>
+
+  <g stroke="#94a3b8" stroke-width="1.3" fill="none" stroke-linecap="round">
+    <path d="M 170 100 Q 180 112 188 110"/>
+    <path d="M 175 110 Q 186 120 184 132"/>
+    <path d="M 168 118 Q 174 132 166 142"/>
+    <circle cx="188" cy="110" r="3.5" fill="#2dd4bf" stroke="none"/>
+    <circle cx="184" cy="132" r="3" fill="#0ea5e9" stroke="none"/>
+    <path d="M 166 142 l -4 3 M 166 142 l 4 3 M 166 142 l -1 5 M 166 142 l 2 5"/>
+  </g>
+
+  <text x="100" y="115" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="600" fill="url(#kpGradBlue)" text-anchor="middle" letter-spacing="2">KP</text>
+</svg>
